@@ -2,6 +2,7 @@
 
 *.bak
 *.log
+*.zip
 *.json
 
 fp-lib-table
